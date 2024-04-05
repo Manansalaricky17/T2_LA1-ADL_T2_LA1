@@ -1,0 +1,24 @@
+.button  {
+    color: white;
+    background-color: #007bff;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: underline;
+  }
+  main p {
+    color: green;
+    font-size: 20px;
+  }
+  footer {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    text-align: center;
+    
+}
+    
